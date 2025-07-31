@@ -61,4 +61,4 @@ Tu veux collaborer ? Juste discuter ?
 
 ---
 
-> _“Code propre, sono sale.” — Le J_ 🎶
+> _“Code propre, sono sale.” — Johan_ 🎶
