@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Johan
 
-🎧 Dév' le jour, DJ la nuit  
+🎧 Dév le jour, DJ la nuit
 💻 Développeur fullstack passionné par les technos modernes  
 🚀 J'aime créer des expériences web performantes, propres et scalables
 
