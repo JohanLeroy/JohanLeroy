@@ -43,7 +43,7 @@
 
 ## 📈 Stats GitHub
 
-![Le J's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohanLeroy&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohanLeroy&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanLeroy&layout=compact&theme=radical)
 
 > 💡 Pas trop fan de Microsoft ? Moi non plus.  
