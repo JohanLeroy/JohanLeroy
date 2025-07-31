@@ -57,7 +57,7 @@
 Tu veux collaborer ? Juste discuter ?
 
 - ✉️ **Email** : leroyjohan3@gmail.com  
-- 🌐 **Site web / Portfolio** : [https://johanleroy.fr](https://johanleroy.fr)
+- 🌐 **Site web / Portfolio** : [johanleroy.fr](https://johanleroy.fr)
 
 ---
 
