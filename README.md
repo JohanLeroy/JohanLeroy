@@ -4,6 +4,8 @@
 💻 Développeur fullstack passionné par les technos modernes
 🚀 J'aime créer des expériences web performantes, propres et scalables
 
+📍 Basé à Nantes, France · 🌐 [johanleroy.fr](https://johanleroy.fr) · 💼 Dév fullstack @ Qualiobee
+
 ---
 
 ## 🧠 À propos de moi
@@ -16,7 +18,22 @@
 - 📨 Queues & temps réel : `BullMQ`, `Redis`, `Socket.IO`, `SQS`
 - 🧩 J'aime structurer mes projets avec des archis propres (Strategy/Adapter, services découplés)
 - 🎨 Fan de UI bien léchée : design systems glass, dark/light mode, animations douces, UX fluide
+- 🏗️ Profil « builder » : open-source, **8+ services auto-hébergés**, projets perso en continu
 - 🎵 DJ & passionné de tekno, mes projets web ont parfois un petit beat qui groove 😎
+
+---
+
+## 🚀 Mes projets
+
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| **Techos** | Plateforme client + admin de gestion d'hébergement web & domaines (WHMCS), design system « Liquid Glass » clair/sombre | `Next.js 16` · `NestJS 11` · `Tailwind 4` · `Redis` · `WHMCS` | [techos-asso.fr](https://techos-asso.fr) |
+| **Amarea Tattoo** | Site vitrine + gestion d'un studio de tatouage, archi découplée SPA + API REST avec gestion de médias | `Vue 3` · `Vite` · `NestJS 11` · `TypeORM` · `MariaDB` | [amarea-tattoo.fr](https://amarea-tattoo.fr) |
+| **Lidge** | Portail d'abonnements à mes services auto-hébergés (Cloud, Vault, Git) avec SSO, tickets & workflow d'accès | `Nuxt 3` · `NestJS 11` · `TypeORM` · `MariaDB` · `JWT` | [lidge.fr](https://lidge.fr) |
+| **Arboretum** 🌱 | Outil **open-source** : dashboard pour piloter des worktrees git & des sessions d'agents IA, lancé en `npx` | `Node.js` · `Vue 3` · `TypeScript` | `npx git-arboretum` |
+| **Bot Discord KSauce** | Bot communautaire Discord : commandes, modération & fonctionnalités sur-mesure | `Node.js` · `TypeScript` · `Discord.js` | [ksauce.lidge.fr](https://ksauce.lidge.fr/) |
+| **Liberty Pour La Vie** | Site web complet pour l'association Liberty Pour La Vie | `Java` · `Spring Boot` · `Thymeleaf` · `MariaDB` | [libertypourlavie.fr](https://libertypourlavie.fr/) |
+| **Mon Voisin Geek** | Site vitrine _(projet archivé)_ | `Angular` · `Express.js` · `MariaDB` | — |
 
 ---
 
@@ -42,6 +59,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Pinia](https://img.shields.io/badge/-Pinia-FFD859?style=for-the-badge&logoColor=black)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
@@ -115,6 +133,19 @@
 
 ---
 
+## 🎧 Côté platines
+
+Dév le jour, **DJ la nuit** 🌙
+La **techno** et la musique électronique, c'est mon échappatoire après le clavier — et ça déteint forcément sur mes projets : un petit beat qui groove n'est jamais bien loin 😎
+
+🎶 **Mes mixs** → [soundcloud.com/skuuuu](https://soundcloud.com/skuuuu)
+
+[![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/skuuuu)
+![DJ](https://img.shields.io/badge/-DJ%20%2F%20Mix-1DB954?style=for-the-badge&logo=ableton-live&logoColor=white)
+![Vinyl](https://img.shields.io/badge/-Musique%20électronique-8E44AD?style=for-the-badge&logo=applemusic&logoColor=white)
+
+---
+
 ## 📈 Stats GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohanLeroy&show_icons=true&theme=radical)
@@ -125,12 +156,22 @@
 
 ---
 
+## ☕ Un petit café ?
+
+Si mes projets ou mon travail open-source te sont utiles, tu peux m'offrir un café — ça fait toujours plaisir et ça alimente la prochaine nuit de code (et de mix) 🎶
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Offrir%20un%20café-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/johanleroy)
+
+---
+
 ## 📫 Me contacter
 
 Tu veux collaborer ? Juste discuter ?
 
-- ✉️ **Email** : leroyjohan3@gmail.com
+- ✉️ **Email** : contact@johanleroy.fr
 - 🌐 **Site web / Portfolio** : [johanleroy.fr](https://johanleroy.fr)
+- 💼 **LinkedIn** : [Johan Leroy](https://www.linkedin.com/in/johan-leroy-472409180/)
+- 🦊 **Mon forge Gitea** : [git.lidge.fr/johanleroy](https://git.lidge.fr/johanleroy)
 
 ---
 
