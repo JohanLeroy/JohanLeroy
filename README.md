@@ -30,7 +30,7 @@
 | **Techos** | Plateforme client + admin de gestion d'hébergement web & domaines (WHMCS), design system « Liquid Glass » clair/sombre | `Next.js 16` · `NestJS 11` · `Tailwind 4` · `Redis` · `WHMCS` | [techos-asso.fr](https://techos-asso.fr) |
 | **Amarea Tattoo** | Site vitrine + gestion d'un studio de tatouage, archi découplée SPA + API REST avec gestion de médias | `Vue 3` · `Vite` · `NestJS 11` · `TypeORM` · `MariaDB` | [amarea-tattoo.fr](https://amarea-tattoo.fr) |
 | **Lidge** | Portail d'abonnements à mes services auto-hébergés (Cloud, Vault, Git) avec SSO, tickets & workflow d'accès | `Nuxt 3` · `NestJS 11` · `TypeORM` · `MariaDB` · `JWT` | [lidge.fr](https://lidge.fr) |
-| **Arboretum** 🌱 | Outil **open-source** : dashboard pour piloter des worktrees git & des sessions d'agents IA, lancé en `npx` | `Node.js` · `Vue 3` · `TypeScript` | `npx git-arboretum` |
+| **Arboretum** 🌱 | Outil **open-source** : dashboard pour piloter des worktrees git & des sessions d'agents IA, lancé en `npx git-arboretum` | `Node.js` · `Vue 3` · `TypeScript` | [git-arboretum.com](https://git-arboretum.com/) |
 | **Bot Discord KSauce** | Bot communautaire Discord : commandes, modération & fonctionnalités sur-mesure | `Node.js` · `TypeScript` · `Discord.js` | [ksauce.lidge.fr](https://ksauce.lidge.fr/) |
 | **Liberty Pour La Vie** | Site web complet pour l'association Liberty Pour La Vie | `Java` · `Spring Boot` · `Thymeleaf` · `MariaDB` | [libertypourlavie.fr](https://libertypourlavie.fr/) |
 | **Mon Voisin Geek** | Site vitrine _(projet archivé)_ | `Angular` · `Express.js` · `MariaDB` | — |
